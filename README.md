@@ -44,6 +44,78 @@
   </a>
 </div>
 
+## 📂 Repos
+
+<details>
+  <summary>⭐ Main </summary>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=MTProxy&show_icons=true&theme=transparent)](https://github.com/Xabierland/MTProxy)
+
+</details>
+
+<details>
+  <summary>⚙ Config </summary>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=dotfiles&show_icons=true&theme=transparent)](https://github.com/Xabierland/dotfiles)
+
+</details>
+
+<details>
+    <summary>📓 Learning</summary>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=LeetCode&show_icons=true&theme=transparent)](https://github.com/Xabierland/LeetCode)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=HTB&show_icons=true&theme=transparent)](https://github.com/Xabierland/HTB)
+
+</details>
+
+<details>
+<summary>👨‍🎓 University</summary>
+<details>
+<summary> First </summary>
+
+First quarter
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=PB-ADA&show_icons=true&theme=transparent)](https://github.com/Xabierland/PB-ADA)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=PB-Python&show_icons=true&theme=transparent)](https://github.com/Xabierland/PB-Python)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=PDSD-Proyecto&show_icons=true&theme=transparent)](https://github.com/Xabierland/PDSD-Proyecto)
+
+Second quarter
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=PMOO&show_icons=true&theme=transparent)](https://github.com/Xabierland/PMOO)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=EC&show_icons=true&theme=transparent)](https://github.com/Xabierland/EC)
+
+</details>
+<details>
+<summary> Second </summary>
+
+First quarter
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=EDA&show_icons=true&theme=transparent)](https://github.com/Xabierland/EDA)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=EDA-LAB&show_icons=true&theme=transparent)](https://github.com/Xabierland/EDA-LAB)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=R&show_icons=true&theme=transparent)](https://github.com/Xabierland/R)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=AC&show_icons=true&theme=transparent)](https://github.com/Xabierland/AC)
+
+Second quarter
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=IS&show_icons=true&theme=transparent)](https://github.com/Xabierland/IS)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=IS-Proyecto&show_icons=true&theme=transparent)](https://github.com/Xabierland/IS-Proyecto)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=BD-Proyecto&show_icons=true&theme=transparent)](https://github.com/Xabierland/DB-Proyecto)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ISO&show_icons=true&theme=transparent)](https://github.com/Xabierland/ISO)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xabierland&repo=ISO-Proyecto&show_icons=true&theme=transparent)](https://github.com/Xabierland/ISO-Proyecto)
+
+</details>
+
 ###
 
 <div align="center">
